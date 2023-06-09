@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="greeting">Welcome\nTuti</string>
+    <string name="what_do_you_want">What do you want to do today?</string>
+</resources>
