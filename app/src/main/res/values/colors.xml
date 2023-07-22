@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#101010</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_1">#820263</color>
+    <color name="primary_2">#FFB2E6</color>
+    <color name="primary_3">#4D013A</color>
+    <color name="secondary_1">#04A777</color>
+    <color name="secondary_2">#B2FFE8</color>
+    <color name="secondary_3">#024D37</color>
+    <color name="tertiary_1">#D90368</color>
+    <color name="tertiary_2">#FFCCE4</color>
+    <color name="tertiary_3">#660131</color>
 </resources>
